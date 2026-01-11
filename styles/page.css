@@ -347,5 +347,43 @@
     content:'→' ;
 }
 
+#last-part{
+    background-color: #001931;
+    width: 1600px;
+    height: 348px;
+    display: flex;
+    justify-content:space-around;
+}
 
+.left-ss{
+    /* border: 2px solid red; */
+    margin-top: 100px;
+}
+.left-ss img{
+    width: 80px;
+    height: 30px;
+}
 
+.right-ss{
+    /* border: 2px solid red; */
+    margin-top:100px ;
+}
+
+.right-ss h3{
+    color: antiquewhite;
+
+}
+
+#last-ss{
+    background-color: #001931;
+    width: 1600px;
+    height: 100px;
+    margin-top: -20px;
+}
+.ddd p{
+    color: antiquewhite;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
